@@ -4,8 +4,6 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Fantuan Delivery Redesign",
-  description: "MIE240 Project - UI/UX Redesign.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
